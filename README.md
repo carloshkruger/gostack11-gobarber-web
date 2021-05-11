@@ -1,5 +1,7 @@
 # GoBarber - Web
 
+Versão web da aplicação para agendamentos em barbearia.
+
 # Funcionalidades
 - Criação do usuário
 - Login
