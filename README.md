@@ -1,6 +1,6 @@
 # GoBarber - Web
 
-Versão web da aplicação para agendamentos em barbearia.
+Web version of an app for barbershop appointments.
 
 # Layout
 
@@ -23,15 +23,16 @@ Versão web da aplicação para agendamentos em barbearia.
     </tr>
 </table>
 
-# Funcionalidades
+# Functionalities
 
-- Criação do usuário
+- Create users
 - Login
-- Reset da senha
-- Agendamentos do profissional
+- Password reset
+- List the professional's appointments
 
-# Tecnologias
+# Tech stack
 
+- React.js
 - TypeScript
 - Axios
 - Jest
